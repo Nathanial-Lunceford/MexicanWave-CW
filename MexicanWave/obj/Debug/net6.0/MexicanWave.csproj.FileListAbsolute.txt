@@ -1,0 +1,15 @@
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\bin\Debug\net6.0\MexicanWave.exe
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\bin\Debug\net6.0\MexicanWave.deps.json
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\bin\Debug\net6.0\MexicanWave.runtimeconfig.json
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\bin\Debug\net6.0\MexicanWave.dll
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\bin\Debug\net6.0\MexicanWave.pdb
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\obj\Debug\net6.0\MexicanWave.csproj.AssemblyReference.cache
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\obj\Debug\net6.0\MexicanWave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\obj\Debug\net6.0\MexicanWave.AssemblyInfoInputs.cache
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\obj\Debug\net6.0\MexicanWave.AssemblyInfo.cs
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\obj\Debug\net6.0\MexicanWave.csproj.CoreCompileInputs.cache
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\obj\Debug\net6.0\MexicanWave.dll
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\obj\Debug\net6.0\refint\MexicanWave.dll
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\obj\Debug\net6.0\MexicanWave.pdb
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\obj\Debug\net6.0\MexicanWave.genruntimeconfig.cache
+C:\Users\Skinnysolids\Desktop\repos\MexicanWave\MexicanWave\obj\Debug\net6.0\ref\MexicanWave.dll
